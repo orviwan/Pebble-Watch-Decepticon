@@ -1,0 +1,101 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+        {
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_decepticon.png"
+        },
+        {
+        "type": "font",
+        "defName": "FONT_TRANSFORMERS_25",
+        "file": "fonts/Transformers-Movie.ttf"
+        },
+        {
+        "type": "font",
+        "defName": "FONT_TRANSFORMERS_18",
+        "file": "fonts/Transformers-Movie.ttf"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_BADGE",
+        "file": "images/badge.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_1",
+        "file": "images/decepticon_1.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_2",
+        "file": "images/decepticon_2.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_3",
+        "file": "images/decepticon_3.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_4",
+        "file": "images/decepticon_4.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_5",
+        "file": "images/decepticon_5.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_6",
+        "file": "images/decepticon_6.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_7",
+        "file": "images/decepticon_7.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_8",
+        "file": "images/decepticon_8.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_9",
+        "file": "images/autobot_7.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_10",
+        "file": "images/autobot_6.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_11",
+        "file": "images/autobot_5.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_12",
+        "file": "images/autobot_4.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_13",
+        "file": "images/autobot_3.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_14",
+        "file": "images/autobot_2.png"
+        },
+        {
+        "type": "png",
+        "defName": "IMAGE_ANIM_15",
+        "file": "images/autobot_1.png"
+        }
+ ]
+}
